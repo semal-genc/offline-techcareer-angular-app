@@ -1,5 +1,5 @@
 # Angular and Typescript
-[Angular GitHub](https://github.com/semal-genc/tech-angular-app)
+[Angular GitHub](https://github.com/semal-genc/offline-techcareer-angular-app)
 
 ## Git Kurulumu
 https://git-scm.com/downloads/win
