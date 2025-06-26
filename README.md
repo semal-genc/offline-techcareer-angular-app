@@ -1,3 +1,47 @@
+# Angular and Typescript
+[Angular GitHub](https://github.com/semal-genc/tech-angular-app)
+
+## Git Kurulumu
+https://git-scm.com/downloads/win
+git config --global user.name "Şemal Genç"
+git config --global user.email "semalgenc5@gmail.com"
+
+---
+
+## Node JS
+https://nodejs.org/en/download
+
+---
+
+## Version
+git -v
+npm -v
+--
+npm list
+npm list -g
+
+
+## Angular Kurulumu
+```sh
+ng new tech-angular-app
+cd tech-angular-app
+ng serve
+ng serve --open
+
+ng serve --port 9999 --open
+http://localhost:9999
+curl localhost:9999
+```
+
+
+
+
+
+
+
+
+
+
 # TechAngularApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.4.
